@@ -1,3 +1,5 @@
+# SpamerBot
+
 The project will concern a service for companies for marketing purposes. It consists of
 of two parts, the first, which will involve collecting data on the accounts of
 instagram influencers from the website using the Selenium library in the
